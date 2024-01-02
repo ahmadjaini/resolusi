@@ -20,6 +20,15 @@ Bahasa Pemrograman Kotlin
 
 project => membuat aplikasi android Integrasi aplikasi kantor
 
+--------------------------------------------------------------------------------------------
+3. Wordpress Developer 
+Menggunakan Elementor
+Project => membuat website kantor berdasarkan UI UX
+
+4. Channel Youtube 
+- Konten => CPNS, PPPK, Pekerjaan Sehari-hari
+
+
 
 
 
