@@ -1,0 +1,27 @@
+Resolusi Tahun 2024
+1. Menguasai Web Developer
+2. Menguasai Android Developer
+3. Wordress Developer
+4. Membuat Channel Youtube
+5. Membuat Website Portofolio
+
+
+1. Fullstack Web Developer
+UI dan UX => Adobe XD, Figma
+HTML dan CSS => Bootstrap, Tailwind CSS
+Bahasa pemrograman PHP => Codeigniter 4, Laravel
+Bahasa pemrograman JavaScript => jquery, React Js, Express Js, Node Js, Vue Js
+Database => Mysql, Monggo DB
+
+Project => membuat aplikasi penunjang
+
+2. Android Developer
+Bahasa Pemrograman Kotlin
+
+project => membuat aplikasi android Integrasi aplikasi kantor
+
+
+
+
+
+
